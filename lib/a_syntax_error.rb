@@ -1,4 +1,4 @@
-def SyntaxError
+def x
   puts x = 1
 end
-SyntaxError = x
+x
