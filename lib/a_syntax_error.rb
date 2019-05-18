@@ -1,3 +1,4 @@
-puts x = 1
+def SyntaxError
+  puts x = 1
 end
-x = 
+SyntaxError = x
